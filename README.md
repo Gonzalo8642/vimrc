@@ -19,14 +19,9 @@ My personal vimrc configuration
 
    ` git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
-3. Configure Plugins:
 
-   Put this at the top of your `.vimrc` to use Vundle. Remove plugins you don't need, they are for illustration purposes.
-4. Install Plugins:
+3. Install Plugins:
 
    Launch `vim` and run `:PluginInstall`
 
    To install from command line: `vim +PluginInstall +qall`
-
-5. (optional) For those using the fish shell: add `set shell=/bin/bash` to your `.vimrc`
-
