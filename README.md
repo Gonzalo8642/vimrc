@@ -19,8 +19,15 @@ My personal vimrc configuration
 
    ` git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
+3. Download [.vimrc](https://github.com/Gonzalo8642/vimrc)
+   ```
+   git clone https://github.com/Gonzalo8642/vimrc.git
+   mv ~/.vimrc ~/.vimrc.old   #Save current vimrc settings 
+   cd vimrc                   #Change into vimrc directory
+   cp .vimrc ~/.vimrc         #Copy my vimrc into your home dir
+   ```
 
-3. Install Plugins:
+4. Install Plugins:
 
    Launch `vim` and run `:PluginInstall`
 
