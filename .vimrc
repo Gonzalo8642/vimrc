@@ -30,7 +30,7 @@ filetype plugin indent on    " required
 " see :h vundle for more details or wiki for FAQ
 " Put your non-Plugin stuff after this line
 
-"""""" stuuf""""""
+"""""" stuff """"""
 " filenames like *.xml, *.html, *.xhtml, ...
 " These are the file extensions where this plugin is enabled.
 "
@@ -96,7 +96,6 @@ set noshowmode   " Hide the defualt mode text (e.g. -- INSERT -- below the statu
 """"""""""""""
 " Set to auto read when a file is changed from the outside
 set autoread
-
 " Auto indent
 set ai
 " Smart indent
