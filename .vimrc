@@ -104,6 +104,8 @@ set si
 set wrap
 " Set number line
 set number
+" Set number line to relative
+set relativenumber
 """"""""""""""""
 "  colors      
 """"""""""""""""
