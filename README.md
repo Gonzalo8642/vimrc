@@ -7,15 +7,15 @@ My personal vimrc configuration
 
 1. Introduction:
 
-   Installation requires [Git] and triggers [`git clone`] for each configured repository to `~/.vim/bundle/` by default.
+   Installation requires [Git](https://git-scm.com/) and triggers `git clone` for each configured repository to `~/.vim/bundle/` by default.
    Curl is required for search.
 
-   If you are using Windows, go directly to [Windows setup]. If you run into any issues, please consult the [FAQ].
-   See [Tips] for some advanced configurations.
+   If you are using Windows, go directly to [Windows setup](https://github.com/VundleVim/Vundle.vim/wiki/Vundle-for-Windows). If you run into any issues, please consult the [FAQ](https://github.com/VundleVim/Vundle.vim/wiki).
+   See [Tips](https://github.com/VundleVim/Vundle.vim/wiki/Tips-and-Tricks) for some advanced configurations.
 
-   Using non-POSIX shells, such as the popular Fish shell, requires additional setup. Please check the [FAQ].
+   Using non-POSIX shells, such as the popular Fish shell, requires additional setup. Please check the [FAQ](https://github.com/VundleVim/Vundle.vim/wiki).
 
-2. Set up [Vundle]:
+2. Set up [Vundle](https://github.com/VundleVim/Vundle.vim):
 
    ` git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim`
 
